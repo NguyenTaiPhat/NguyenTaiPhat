@@ -31,12 +31,6 @@
 
 <br/>
 
-<h2 align="center">CONTRIBUTION ACTIVITY</h2>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTaiPhat&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
 <br/>
 
 <h2 align="center">CONTRIBUTION</h2>
