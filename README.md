@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_CUA_BAN&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_CUA_BAN&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenTaiPhat&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTaiPhat&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="languages graph" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME_CUA_BAN&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NguyenTaiPhat&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,react,nextjs,vercel,firebase" />
   </a>
 </p>
-<h1 align="center">Chào bạn, mình là [Tên của bạn] 👋</h1>
+<h1 align="center">NGUYEN TAI PHAT</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Web+Developer+%26+Tech+Enthusiast;Đam+mê+xây+dựng+các+dự+án+thú+vị;Luôn+học+hỏi+công+nghệ+mới+mỗi+ngày!" alt="Typing SVG" />
@@ -34,6 +34,6 @@
 
 ### 📊 Thống kê hoạt động GitHub
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_CUA_BAN&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_CUA_BAN&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenTaiPhat&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenTaiPhat&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
 </div>
