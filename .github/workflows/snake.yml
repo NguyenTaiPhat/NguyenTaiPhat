@@ -5,7 +5,7 @@ on:
     # Chạy tự động mỗi 6 tiếng một lần
     - cron: "0 */6 * * *"
   workflow_dispatch:
-- push:
+  push:
     branches:
       - main
 
