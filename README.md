@@ -1,4 +1,3 @@
-```html
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=NGUYEN%20TAI%20PHAT&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=WEB%20DEVELOPER%20%E2%80%A2%20AI%20%E2%80%A2%20CLOUD%20BUILDER&descAlignY=58&descSize=16" />
 </p>
@@ -24,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<h2 align="center">⚡ TECH STACK</h2>
+<h2 align="center">TECH STACK</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,firebase,gcp,vercel,git,github,vscode&perline=6" alt="Tech Stack" />
@@ -32,7 +31,7 @@
 
 <br/>
 
-<h2 align="center">📈 CONTRIBUTION ACTIVITY</h2>
+<h2 align="center">CONTRIBUTION ACTIVITY</h2>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenTaiPhat&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
@@ -40,7 +39,7 @@
 
 <br/>
 
-<h2 align="center">🐍 CONTRIBUTION SNAKE</h2>
+<h2 align="center">CONTRIBUTION</h2>
 
 <p align="center">
   <picture>
