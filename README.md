@@ -1,6 +1,6 @@
 <!-- 1. BANNER SÓNG CHUYỂN ĐỘNG MƯỢT MÀ -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=220&amp;section=header&amp;text=NGUYEN%20TAI%20PHAT&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=WEB%20DEVELOPER%20%E2%80%A2%20AI%20%26%26%20CLOUD%20BUILDER&amp;descAlignY=58&amp;descSize=16" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=220&amp;section=header&amp;text=NGUYEN%20TAI%20PHAT&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=WEB%20DEVELOPER%20•%20AI%20•%20CLOUD%20BUILDER&amp;descAlignY=58&amp;descSize=16" />
 </p>
 
 <!-- 2. CHỮ CHẠY HIỆU ỨNG TERMINAL GLOW -->
